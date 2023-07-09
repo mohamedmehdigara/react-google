@@ -29,8 +29,13 @@ button {
   font-size: 16px;
 }
 
+/* App.css */
 div > div {
   margin: 20px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 a {
@@ -41,4 +46,17 @@ a {
 
 p {
   margin: 5px 0;
+  color: #70757a;
+}
+
+/* App.css */
+header {
+  background: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  height: 34px;
 }
